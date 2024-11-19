@@ -82,7 +82,7 @@ La aplicación sigue una arquitectura modular dividida en las siguientes partes:
 ### Pasos de Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-repositorio/app-corporativa.git
+   git clone https://github.com/DevSirclain/ipchile_PAM_I_M3_EPE3.git
    cd app-corporativa
    ```
 
