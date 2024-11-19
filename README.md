@@ -128,14 +128,6 @@ La aplicación sigue una arquitectura modular dividida en las siguientes partes:
    - Extensión a iOS.
 3. **Analíticas Avanzadas**:
    - Recolección de datos sobre el uso de la aplicación y métricas ambientales para análisis.
-
----
-
-## 📧 **Contacto**
-Si tienes preguntas o sugerencias, no dudes en contactarnos:
-- **Equipo de Desarrollo**: [desarrollo@empresa.com](mailto:desarrollo@empresa.com)
-- **Sitio Web**: [www.empresa.com](http://www.empresa.com)
-
 ---
 
 ¡Gracias por usar nuestra aplicación! 🎉
